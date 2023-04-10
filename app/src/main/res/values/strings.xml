@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">GraduationProject</string>
+    <string name="app_name">MainActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">enter your Email</string>
+    <string name="ssid">Enter Your ssid</string>
+    <string name="name">Enter Your Name</string>
+    <string name="login_state">Login State</string>
+    <string name="employee">Employee</string>
+    <string name="student">Student</string>
+    <string name="applying_to_college">Applying to College</string>
+    <string name="courses_registration">Courses registration</string>
+    <string name="add_attachment">Add attachment</string>
+    <string name="update_your_data">Update Your data</string>
+    <string name="literacy">Literacy</string>
+    <string name="graduation_paper">graduation paper</string>
+    <string-array name="study_year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
 </resources>

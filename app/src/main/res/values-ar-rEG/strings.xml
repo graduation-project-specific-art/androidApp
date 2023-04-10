@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="ssid">الرقم القومي</string>
+    <string name="name">اسم المستخدم</string>
+    <string name="login_state">حالة المستخدم</string>
+    <string name="employee">موظف</string>
+    <string name="student">طالب</string>
+
+    <string name="applying_to_college">التقديم للكلية</string>
+    <string name="courses_registration">تسجيل المواد</string>
+    <string name="add_attachment">إضافة مرفق</string>
+    <string name="update_your_data">تحديث بيانات</string>
+    <string name="literacy">محو الأمية</string>
+    <string name="graduation_paper">استمارة التخرج</string>
+    <string-array name="study_year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
